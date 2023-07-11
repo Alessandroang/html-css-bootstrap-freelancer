@@ -4,10 +4,6 @@
   padding: 0;
 }
 
-header {
-  height: 100px;
-}
-
 .box {
   width: auto;
   padding: 1rem;
@@ -30,7 +26,7 @@ header {
 
 #about {
   background-color: teal;
-  color: black;
+  color: white;
 }
 
 #footer {
@@ -45,9 +41,11 @@ header {
 .white-line {
   border: 1px solid white;
   width: 15%;
+  display: inline-block;
 }
 
 .black-line {
   border: 1px solid black;
   width: 15%;
+  display: inline-block;
 }

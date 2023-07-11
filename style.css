@@ -15,3 +15,39 @@ header {
   border: 2px dashed black;
   background-color: aquamarine;
 }
+
+/* Section */
+
+#start {
+  background-color: teal;
+  color: white;
+}
+
+#portfolio {
+  background-color: white;
+  color: black;
+}
+
+#about {
+  background-color: teal;
+  color: black;
+}
+
+#footer {
+}
+
+.max-height-300 {
+  max-height: 300px;
+}
+
+/* LINE */
+
+.white-line {
+  border: 1px solid white;
+  width: 15%;
+}
+
+.black-line {
+  border: 1px solid black;
+  width: 15%;
+}
